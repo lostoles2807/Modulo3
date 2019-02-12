@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo{
+	width: 150px;
+	height: 150px;
+	padding: 10px;
+}
+#colorcab{
+	background-color:#C0F59A;
+	border-radius: 15px
+}
+#redes img{
+	width: 40px;
+	height: 40px;
+}
+#redes ul{
+	margin-top: 100px;
+	float: right
+}
+#contenido img{
+	width: 200px;
+	height: 200px;
+	border: double 2px #1CED54;
+	margin-top: 50px;
+}
+p{
+	text-align: justify;
+}
+
+}
+textarea{
+	border-radius: 10px;
+}
+h2{
+	color: darkkhaki;
+}
+#fondo1{
+	background-color: antiquewhite;
+	border-radius: 15px;
+}
+#fondo1 textarea{
+	border-radius: 10px;
+}
+#fondo2{
+	background-color:#A7F085;
+	border-radius: 15px;
+}
+#barra{
+	background-color: aliceblue
+}
+#barra ul{
+	list-style: none;
+}
+#buscar{
+	border-radius: 10px;
+	width: 300px;
+	margin-top: 50px;
+}
+#fondo2 div{
+	padding: 5px
+}
+li{
+	list-style: none
+}
+.btn{
+	background-color:#53BFEC;
+	width: 170px;
+	color: white
+}

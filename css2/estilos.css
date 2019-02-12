@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+#barra ul{
+	float: right
+}
+#barralat{
+	height: 520px;
+}
+#barralat img{
+	width: 70px;
+	height: 70px;
+	padding-top: 20px
+		
+}
+#imagen1{
+	width: 375px;
+	height: 250px;
+	box-shadow: -5px -5px 10px green;
+}
+#imagen2{
+	width: 390px;
+	height: 500px;
+	text-shadow: -5px -5px 10px green;
+}
+#imagen{
+	align-items: center;
+	padding-top: 15px;
+	padding-right: 15px
+		
+}
+#imagen img{
+	border: double 2px #F0931E;
+}
+
+h2{
+	
+}
+p{
+	text-align: justify
+}
+#imacoment img{
+	width: 70px;
+	height: 50px;
+	padding top: 10px;
+		
+}
+#imacoment textarea{
+	border-radius: 120px;
+}
+#contenido img{
+	margin-top: 20px;
+}
+#perfil{
+	text-align: center;
+	padding-top: 20px;
+	height: 630px;
+}
+#perfil h2{
+	text-align: center;
+	font-size: 30px
+}
+#logo img{
+	box-shadow: 5px -15px 20px green;
+	padding-top: 10px;
+}
+h3{
+	font-size: 24px;
+	text-align: left;
+	margin-top: 80px;
+	text-shadow: 5px 5px 10px green;
+}
+.btn-large{
+	width: 180px
+}
