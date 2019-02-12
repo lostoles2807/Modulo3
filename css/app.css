@@ -1,0 +1,97 @@
+#contenedor1{
+	width: 1000px;
+	background-color: aqua;
+}
+#logo{
+	text-align: center;
+}
+h1{
+	color: coral;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+#redes img{
+	width: 40px;
+}
+#imagenes{
+	background-color: #F4ADAE;
+	padding-left: 5px;
+	
+}
+#imagenes img{
+	width: 350px;
+	height: 275px;
+	padding: 5px;
+	border: double 2px #C977F3;
+	box-shadow: 5px 5px 10px red;
+}
+#borde{
+	border: ridge 1px #804D13;
+}
+#menu{
+	text-decoration-line: none;
+}
+#menu hover{
+	color: darkblue;
+}
+#contenido{
+	border-left: double 2px #EB970F;
+}
+#conte{
+	align-content: center
+	width: 600px;
+	height: 400px;
+	padding: 10px;
+	border: double 2px #A5E821;
+}
+hr{
+	padding: 10px;
+}
+div{
+	padding: 10px;
+}
+p{
+	text-align: justify
+}
+textarea{
+	padding: 3px;
+	border-radius: 5px;
+}
+#iconos{
+	width: 50px;
+	height: 50px;
+	padding: 2px;
+	
+}
+
+#rejilla{
+	border-left: double 2px #EB970F;
+}
+#contimag img{
+	width: 80px;
+	height: 60px;
+}
+li
+{
+	list-style: none;
+}
+span{
+	color: blue;
+	float: left;
+	padding-right: 25px;
+	font-size: 20px;
+}
+#tt{
+	border-radius: 10px;
+}
+#titulo{
+	border-right: double 2px #EB970F;
+}
+.button{
+	width: 150px;
+}
+#fotos{
+	background-color: #F18789
+}
+#centrarimg{
+	text-align: center
+}
